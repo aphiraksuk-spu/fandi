@@ -1,0 +1,62 @@
+[
+  {
+    "id": "salt-40",
+    "name": "Fan Di Salt",
+    "mood": "romance",
+    "type": "spray",
+    "size": "40 กรัม",
+    "price": 49,
+    "image": "images/salt.jpg",
+    "description": "ยาสีฟันสูตรเกลือบริสุทธิ์ ช่วยให้ช่องปากสะอาด สดชื่นนุ่มนวล ขนาดพกพาสะดวก เหมาะกับการเดินทางและใช้ระหว่างวัน"
+  },
+  {
+    "id": "salt-100",
+    "name": "Fan Di Salt",
+    "mood": "romance",
+    "type": "spray",
+    "size": "100 กรัม",
+    "price": 79,
+    "image": "images/salt.jpg",
+    "description": "ยาสีฟันสูตรเกลือบริสุทธิ์ ช่วยให้ช่องปากสะอาด สดชื่นนุ่มนวล ขนาดคุ้มค่าสำหรับใช้ประจำที่บ้าน"
+  },
+  {
+    "id": "charcoal-40",
+    "name": "Fan Di Charcoal",
+    "mood": "confident",
+    "type": "spray",
+    "size": "40 กรัม",
+    "price": 49,
+    "image": "images/charcoal.jpg",
+    "description": "ยาสีฟันสูตรชาร์โคลธรรมชาติ ช่วยดูแลคราบบนฟัน ให้ยิ้มได้อย่างมั่นใจ ขนาดพกพาสะดวก"
+  },
+  {
+    "id": "charcoal-100",
+    "name": "Fan Di Charcoal",
+    "mood": "confident",
+    "type": "spray",
+    "size": "100 กรัม",
+    "price": 79,
+    "image": "images/charcoal.jpg",
+    "description": "ยาสีฟันสูตรชาร์โคลธรรมชาติ ช่วยดูแลคราบบนฟัน ให้ยิ้มได้อย่างมั่นใจ ขนาดคุ้มค่าสำหรับใช้ประจำที่บ้าน"
+  },
+  {
+    "id": "mint-40",
+    "name": "Fan Di Mint",
+    "mood": "fresh",
+    "type": "spray",
+    "size": "40 กรัม",
+    "price": 49,
+    "image": "images/mint.jpg",
+    "description": "ยาสีฟันสูตรมินต์เย็นสดชื่น ให้ลมหายใจหอมสะอาดตลอดวัน ขนาดพกพาสะดวก"
+  },
+  {
+    "id": "mint-100",
+    "name": "Fan Di Mint",
+    "mood": "fresh",
+    "type": "spray",
+    "size": "100 กรัม",
+    "price": 79,
+    "image": "images/mint.jpg",
+    "description": "ยาสีฟันสูตรมินต์เย็นสดชื่น ให้ลมหายใจหอมสะอาดตลอดวัน ขนาดคุ้มค่าสำหรับใช้ประจำที่บ้าน"
+  }
+]
